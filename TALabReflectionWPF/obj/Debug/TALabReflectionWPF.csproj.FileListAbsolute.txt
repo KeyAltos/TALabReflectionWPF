@@ -1,0 +1,2 @@
+c:\users\valery_kapatsevich@epam.com\documents\visual studio 2015\Projects\TALabReflectionWPF\TALabReflectionWPF\bin\Debug\TALabReflectionWPF.exe.config
+C:\Users\Valery_Kapatsevich@epam.com\Documents\GitHub\TALab\TALabReflectionWPF\TALabReflectionWPF\bin\Debug\TALabReflectionWPF.exe.config
